@@ -1,0 +1,144 @@
+.jumbotron{
+    height:100px;
+    margin-bottom: 0px;
+}
+.slika{
+    height:180px;
+}
+.dugme{
+    border:1px solid black;
+    width:120px;
+    padding:0px;
+    border-radius: 0px !important;
+    font-size:19px;
+    margin-top:10px;
+}
+.sekcija .prvi{
+    padding:13px 40px;
+}
+.sekcija .drugi{
+    padding:13px 40px;
+}
+.sekcija .glavi{
+    background-color:rgb(8,83,148);
+}
+#onama1{
+    height:100%;
+}
+#onama2{
+    height:100%;
+}
+#kontakt{
+    background-color:white;
+    color:black;
+    font-size:23px;
+    width:100%;
+    height:100%;
+}
+.prvitext{
+    margin-top:10px;
+    width:100%;
+    color:white;
+    font-size:20px;
+}
+.sekcija h3{
+    color:white;
+    margin-top:7px;
+}
+.sekcija h5{
+    color:white;
+    margin-top:7px; 
+}
+.sekcija .sadrzaj{
+    height:110px;
+    border:2px solid black;
+    width:97% !important;
+    margin-left:7px;
+    margin-top:7px;
+    background-color:white;
+    font-size:18px;
+}
+.sekcija .prvi > div {
+    border:2px solid black;
+    height:300px;
+}
+.sekcija .prvi > div .hed {
+    border:2px solid black;
+    height:45px;
+    background-color: black;
+}
+.sekcija .drugi > div {
+    border:2px solid black;
+     height:300px;
+    padding-bottom: 20px;
+}
+.pic {
+    width: 50%;
+    margin: 10px;
+}
+.heder{
+    background-color:rgb(8,83,148);
+    height:160px;
+    z-index:1 !important;   
+}
+.tag-line{
+    height:114px;
+}
+.carousel-inner img{
+ width:100%;
+ height:220px !important;
+}
+body{
+    margin:0px;
+    padding:0px;
+}
+.sl{
+    width:80px;
+    margin-top:15px;  
+}
+.p{   
+    font-size:27px;
+    color:white;
+    margin-top:15px; 
+}
+.logo {
+    width: 65%;
+    margin: 5px;
+}
+
+.border {
+    border-bottom: 1px solid black;
+}
+.container-fluid.glavno {
+    padding: 0px !important;
+}
+footer{
+    height:40px;
+    background-color: black;
+    color:white;
+    font-size:20px;   
+}
+.navbar{
+    z-index:1000 !important;
+    background-color: white;   
+}
+.navbar-toggle{
+    background-color:black;
+}
+@media screen and (max-width: 980px) {
+   .pic{
+       height:90px;
+       width:40%;
+       margin-bottom: 0px;
+   }
+  }
+  #dva{
+      background-color: red;
+  }
+  .navbar .navbar-collapse .nav li a{
+      color:black;
+      
+
+  }
+
+  
